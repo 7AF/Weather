@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Sašo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.0\support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="C:\Projects\Weather\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.0-1ae99048b7448b6fa806b8b3ebf8a3903694a123.jar" />
+    </item>
+    <item
+        jar="C:\Projects\Weather\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="C:\Projects\Weather\app\build\intermediates\pre-dexed\debug\classes-891174313ad2339d3348a1564781295adf565eaf.jar" />
+    </item>
+    <item
+        jar="C:\Projects\Weather\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="C:\Projects\Weather\app\build\intermediates\pre-dexed\debug\classes-121c03c1562846c5d1a4dea02c04d95d391f0dea.jar" />
+    </item>
+    <item
+        jar="C:\Projects\Weather\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\libs\internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="C:\Projects\Weather\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.0-8506216d19bcec7a1cea88b527694a7c9299a463.jar" />
+    </item>
+    <item
+        jar="C:\Projects\Weather\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="C:\Projects\Weather\app\build\intermediates\pre-dexed\debug\classes-b2f66ee10b82d58f1a8afaa35652c17b17f7a67f.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+     <item android:id="@+id/map"
+          android:title="map"
+          android:showAsAction="ifRoom" />
+    <!--  android:icon="@drawable/ic_action_search" -->
+    <!-- Settings, should always be in the overflow -->
+    <item android:id="@+id/action_settings"
+          android:title="@string/action_settings"
+          android:showAsAction="never" />
+    
+	<item android:id="@+id/action_about"
+		  android:title="about"
+		  android:showAsAction="never" />
+</menu><!-- From: file:/C:/Projects/Weather/app/src/main/res/menu/main_activity_actions.xml -->

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="forCondIcon" type="id" />
+    <item name="tempForecast" type="id" />
+    <item name="skydescForecast" type="id" />
+    <item name="temp" type="id" />
+</resources>

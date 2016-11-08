@@ -1,0 +1,6 @@
+C:\Projects\Weather\app\build\intermediates\classes\release
+C:\Projects\Weather\app\build\intermediates\pre-dexed\release\support-annotations-21.0.0-1ae99048b7448b6fa806b8b3ebf8a3903694a123.jar
+C:\Projects\Weather\app\build\intermediates\pre-dexed\release\internal_impl-21.0.0-8506216d19bcec7a1cea88b527694a7c9299a463.jar
+C:\Projects\Weather\app\build\intermediates\pre-dexed\release\classes-b2f66ee10b82d58f1a8afaa35652c17b17f7a67f.jar
+C:\Projects\Weather\app\build\intermediates\pre-dexed\release\classes-891174313ad2339d3348a1564781295adf565eaf.jar
+C:\Projects\Weather\app\build\intermediates\pre-dexed\release\classes-121c03c1562846c5d1a4dea02c04d95d391f0dea.jar
